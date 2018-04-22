@@ -9,3 +9,5 @@ Inside of Secret-Santa/SecretSanta/src/main/java/
 # Notes
 If you want to play but don't want to see the Secret Santa list, you can stil use the script because it will automatically email everyone in the pool, and you won't have to worry about spoilers.
 
+# Uses
+Selenium - a software-testing framework
